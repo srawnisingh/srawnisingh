@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 I’m currently a final year IT Undergrad.
 
-Website : https://http://srawnisingh.github.io/
+Website : http://srawnisingh.github.io/
